@@ -7,4 +7,9 @@ langkah pertama untuk membuat file README.md buka github pada browser
 
 langkah kedua adalah buat repositori baru
 
+![screenshot 2](https://user-images.githubusercontent.com/46736505/52995285-be842180-344c-11e9-877d-4e48f943b6ba.png)
+
+langkah ketiga klik kanan lalu pilih buat dokumen text dan buat nama "README.md"
+
+
 
