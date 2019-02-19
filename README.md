@@ -11,5 +11,11 @@ langkah kedua adalah buat repositori baru
 
 langkah ketiga klik kanan lalu pilih buat dokumen text dan buat nama "README.md"
 
+![screenshot 3](https://user-images.githubusercontent.com/46736505/52995780-3737ad80-344e-11e9-8a5e-77b25a6fe52a.png)
+
+langkah keempat klik kanan lalu pilih gir bas here dan masukan ikutin langkah di github lalu ketika semua benar maka
+kita muncul login github seperti pada gambar di bawah ini
+
+
 
 
