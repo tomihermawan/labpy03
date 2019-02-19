@@ -1,43 +1,74 @@
 # labpy03
-latihan1.py
 
-pada latihan 1.py kita akan membuat file README.md
+# Penjelasan latihan1.py, latihan2.py, dan progam1.py
 
-langkah pertama untuk membuat file README.md buka github pada browser
+# latihan1.py
 
-![screenshot 1](https://user-images.githubusercontent.com/46736505/52995158-5a615d80-344c-11e9-9da6-bee5ec8b7a89.png)
+![inputlatihan1 py](https://user-images.githubusercontent.com/46512870/52991217-57f80700-343e-11e9-8aaf-573427179335.png)
 
-langkah kedua adalah buat repositori baru
+Pengacakan, pembangkit bilangan acak, atau random dapat digunakan untuk berbagai macam hal. Salah satunya adalah untuk memecahkan kasus Monte Carlo. Nilai random kadang dibutuhkan juga untuk menentukan suatu pilihan. Atau digunakan juga untuk membuat id yang ditambahi dari string asal. Randomisasi juga dapat digunakan untuk mengacak suatu tampilan produk, atau digunakan saat proses pelatihan sebuah mesin cerdas. Di Python untuk melakukan random cukup mudah. Dimana kamu hanya perlu menggunakan library bawaan Python yaitu random.
 
-![screenshot 2](https://user-images.githubusercontent.com/46736505/52995285-be842180-344c-11e9-877d-4e48f943b6ba.png)
+ import random
 
-langkah ketiga klik kanan lalu pilih buat dokumen text dan buat nama "README.md"
+ a = random.uniform()
 
-![screenshot 3](https://user-images.githubusercontent.com/46736505/52995780-3737ad80-344e-11e9-8a5e-77b25a6fe52a.png)
+ print(a)
 
-langkah keempat klik kanan lalu pilih gir bas here dan masukan ikutin langkah di github lalu ketika semua benar maka
-kita muncul login github seperti pada gambar di bawah ini
+Perulangan for 
 
-![screenshot 4](https://user-images.githubusercontent.com/46736505/52996053-eeccbf80-344e-11e9-88c9-2a698ceada7d.png)
+perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
 
-setelah itu lalu jadilah file readme yang kita buat
+ for x in range (start,stop)
 
-latihan2.py
+# Hasil Output
 
-pada latihan2.py kita akan membuat prorgam sederhana untuk menentukan bilangan terbesar dari tiga buah bilangan yang di
-inputkan dari keyboard berikut ini contohnya
+![outputlatihan1 py](https://user-images.githubusercontent.com/46512870/52993325-664a2100-3446-11e9-9494-1af290ce893e.png)
 
-pada langkah pertama buat sebuah notepad baru lalu ikuti tulisan seperti gambar di bawah ini
+# latihan2.py
 
-![screenshot 6](https://user-images.githubusercontent.com/46736505/52996508-6b13d280-3450-11e9-9043-f758f8db854e.png)
+![inputlatihan2](https://user-images.githubusercontent.com/46512870/52993808-153b2c80-3448-11e9-8e33-d3df0f8d5182.png)
 
-lalu setelah itu ketik cmd pada pencarian di samping logo windows di pojok bawah kiri dan setelah itu masukan seperti
-gambar di bawah ini , ikuti langkahnya dengan benar
+Perulangan while
 
-![screenshot 5](https://user-images.githubusercontent.com/46736505/52996527-7c5cdf00-3450-11e9-9d93-9a032e9a98c1.png)
+Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
 
-program1.py
+ while kondisi:
 
+ perintah yang diulang
+
+Pernyataan break
+
+Pernyataan break digunakan untuk menghentikan  proses perulangan pada kondisi tertentu.
+
+ if a == 0:
+
+      break
+
+# Hasil Output
+
+![outputlatihan2](https://user-images.githubusercontent.com/46512870/52994192-5ed84700-3449-11e9-9a77-81ed3420f760.png)
+
+# progam1.py
+
+![inputprogam1](https://user-images.githubusercontent.com/46512870/52994630-cc38a780-344a-11e9-86d5-135b8be7a2a3.png)
+
+Perulangan for
+
+Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu. Contoh:
+
+![forprogam1](https://user-images.githubusercontent.com/46512870/52995667-e0ca6f00-344d-11e9-808a-8514d7eb3c07.png)
+
+Menggunakan kondisional if
+
+Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percabangan berupa **if** yaiyu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. Contoh :
+
+![ifprogam1](https://user-images.githubusercontent.com/46512870/52996140-33585b00-344f-11e9-8b06-1ef9a90527f7.png)
+
+# Hasil Output
+
+![outputprogam1](https://user-images.githubusercontent.com/46512870/52996260-a06bf080-344f-11e9-8df2-a991e17c682f.png)
+
+SEKIAN TERIMAKASIH........
 
 
 
