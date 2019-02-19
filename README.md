@@ -34,6 +34,9 @@ pada langkah pertama buat sebuah notepad baru lalu ikuti tulisan seperti gambar 
 lalu setelah itu ketik cmd pada pencarian di samping logo windows di pojok bawah kiri dan setelah itu masukan seperti
 gambar di bawah ini , ikuti langkahnya dengan benar
 
+![screenshot 5](https://user-images.githubusercontent.com/46736505/52996527-7c5cdf00-3450-11e9-9d93-9a032e9a98c1.png)
+
+program1.py
 
 
 
