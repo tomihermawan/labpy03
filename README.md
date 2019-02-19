@@ -29,6 +29,10 @@ inputkan dari keyboard berikut ini contohnya
 
 pada langkah pertama buat sebuah notepad baru lalu ikuti tulisan seperti gambar di bawah ini
 
+![screenshot 6](https://user-images.githubusercontent.com/46736505/52996508-6b13d280-3450-11e9-9043-f758f8db854e.png)
+
+lalu setelah itu ketik cmd pada pencarian di samping logo windows di pojok bawah kiri dan setelah itu masukan seperti
+gambar di bawah ini , ikuti langkahnya dengan benar
 
 
 
